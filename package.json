@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-express",
+  "version": "0.0.0",
+  "description": "NodejsExpress",
+  "main": "server.js",
+  "author": {
+    "name": "HusnainAkmal1"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "hbs": "^4.0.1"
+  }
+}
